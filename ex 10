@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ header { 
+ background-color: black; 
+ color: white; 
+ text-align: center; 
+ padding: 5px; 
+ } 
+ nav { 
+ line-height: 160px; 
+ background-color: #934c4c; 
+ height: 500px; 
+ width: 100px; 
+ float: left; 
+ padding: 5px; 
+ } 
+ section { 
+ width: 350px; 
+ float: left; 
+ padding: 10px; 
+ } 
+ footer { 
+ background-color: black; 
+ color: white; 
+ clear: both; 
+ text-align: center; 
+ padding: 5px; 
+ } 
+</style>
+</head>
+<body>
+ <header>
+ Header Content 
+ </header>
+ <nav>
+ Chandrayan 1<br>
+ Chandrayan 2<br>
+ Chandrayan 3<br>
+ </nav>
+ <section>
+ <h1>CHANDRAYAN</h1>
+ <p>
